@@ -19,7 +19,7 @@ This is a responsive E-Commerce website built using HTML, CSS, TailwindCSS, and 
 
 
 ## How to View
-You can access Nostra website by visiting [Link] Feel free to explore the content.
+You can access Nostra website by visiting [https://gokulakrishnan0610.github.io/Nostra/] Feel free to explore the content.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new features you'd like to add.
